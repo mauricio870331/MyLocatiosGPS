@@ -1,0 +1,18 @@
+.small-form{
+   width: 40%; 
+   margin-left: 28%;
+   margin-top: -30px;
+}
+
+.table-overflow{
+    margin-left: 11%;
+    /*width: 70%;*/
+    height: 230px;
+    overflow-y: auto;
+}
+
+.pRed{
+    color: red;
+    font-weight: bold;
+}
+
